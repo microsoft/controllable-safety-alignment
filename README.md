@@ -5,7 +5,7 @@ We will release the full codebase soon. At this moment, we have publicly release
 
 **CoSApien👥 dataset**: [link](https://huggingface.co/datasets/jackzhang/CoSApien)
 
-If you have questions or would like to request access to our CoSAlign dataset or trained model, feel free to email the authors.
+If you have questions feel free to email the authors.
 
 ## Reference
 If you find our work useful, please consider citing our paper:
