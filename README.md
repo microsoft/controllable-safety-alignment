@@ -1,9 +1,10 @@
 ## Controllable Safety Alignment
 This is the codebase for our ICLR 2025 paper *Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements*.
 
-We will release the full codebase soon. At this moment, we have publicly released the CoSApien dataset which can be accessed here:
+We will release the full codebase soon. At this moment, we have publicly released the CoSApien dataset and the CoSAlign model which can be accessed here:
 
-**CoSApien👥 dataset**: [link](https://huggingface.co/datasets/jackzhang/CoSApien)
+- **CoSApien👥 dataset**: [link](https://huggingface.co/datasets/jackzhang/CoSApien)
+- **Llama3.1-8B-Instruct-CoSAlign**🤖: [link](https://huggingface.co/jackzhang/Llama3.1-8B-Instruct-CoSAlign)
 
 If you have questions feel free to email the authors.
 
