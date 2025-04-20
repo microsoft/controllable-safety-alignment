@@ -1,5 +1,7 @@
 ## Controllable Safety Alignment
-This is the codebase for our ICLR 2025 paper [*Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements*](https://arxiv.org/abs/2410.08968).
+This is the codebase for our ICLR 2025 paper [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968).
+
+![](teaser.png)
 
 Please see a summary of our artifacts in our HuggingFace collection: [Controllable Safety Alignment 🤗](https://huggingface.co/collections/microsoft/controllable-safety-alignment-68019c03f7864df1b4b7a1b7).
 
