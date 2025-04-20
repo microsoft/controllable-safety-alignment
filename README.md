@@ -3,12 +3,12 @@ This is the codebase for our ICLR 2025 paper [Controllable Safety Alignment: Inf
 
 ![](teaser.png)
 
-Please see a summary of our artifacts in our HuggingFace collection: [Controllable Safety Alignment 🤗](https://huggingface.co/collections/microsoft/controllable-safety-alignment-68019c03f7864df1b4b7a1b7).
+In addition to the codebase, we have publicly released the CoSApien dataset. Soon, we will release the CoSAlign model and synthetic datasets. Please see, our HuggingFace collection: [Controllable Safety Alignment 🤗](https://huggingface.co/collections/microsoft/controllable-safety-alignment-68019c03f7864df1b4b7a1b7).
 
-In addition to the codebase, we have publicly released the CoSApien dataset. Soon, we will release the CoSAlign model and synthetic datasets. 
 
-- **CoSApien👥 dataset**: [link](https://huggingface.co/datasets/microsoft/CoSApien)
-
+- **CoSApien👥: A human-authored benchmark**: [link](https://huggingface.co/datasets/microsoft/CoSApien)
+- **Llama3.1-8B-CoSAlign🤖: A safety-configurable Llama3.1-8B**: Coming-Soon
+  
 If you have questions feel free to email the authors.
 
 ## Evaluating Controllability
