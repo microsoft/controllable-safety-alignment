@@ -1,0 +1,5 @@
+{
+    "name": "ignore_harm_7cat",
+    "meta_path": "prompt_templates/ignore_harm_7cat/generate_prompt_template.py",
+    "aggregate": "generate_response"
+}

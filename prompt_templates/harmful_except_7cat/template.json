@@ -1,0 +1,6 @@
+{
+  "name": "harmful_eval_except_7cat",
+  "meta_path": "prompt_templates/harmful_except_7cat/generate_prompt_template.py",
+  "aggregate": "[[YES]]_rate",
+  "requires_example": true
+}

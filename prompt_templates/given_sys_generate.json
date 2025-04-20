@@ -1,0 +1,12 @@
+{
+    "name": "given_sys_generate",
+    "messages":[
+        {"role": "system", "content": "{system_prompt}"},
+        {"role": "user", "content": "{question}"}
+    ],
+    "dataset_template_mapping": {
+        "system_prompt": "system_prompt",
+        "prompt": "question"
+    },
+    "aggregate": "generate_response"
+}

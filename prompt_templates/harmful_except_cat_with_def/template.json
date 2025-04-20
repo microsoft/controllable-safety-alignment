@@ -1,0 +1,5 @@
+{
+  "name": "harmful_eval_except_cat_with_def",
+  "meta_path": "prompt_templates/harmful_except_cat_with_def/generate_prompt_template.py",
+  "aggregate": "[[YES]]_rate"
+}
